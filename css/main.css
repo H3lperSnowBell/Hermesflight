@@ -3,5 +3,7 @@
   width: 100%;
   hight: auto;
   background-color: #54aea5;
-  top: 0
+  top: 0;
+  position: fixed;
+  overflow: hidden;
 }
