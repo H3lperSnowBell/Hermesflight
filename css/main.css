@@ -7,3 +7,6 @@
   position: fixed;
   overflow: hidden;
 }
+.head {
+  margin-top: 30px;
+}
