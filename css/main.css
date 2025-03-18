@@ -3,7 +3,7 @@
   width: 100%;
   hight: auto;
   background: #54aea5;
-  position: fixed;
+  position: sticky;
   overflow: hidden;
   padding-bottom: 25px;
 }
